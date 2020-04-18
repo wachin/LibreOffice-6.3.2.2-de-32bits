@@ -2,5 +2,5 @@
 Paquetes 32 bits de LibreOffice 6.3 DEB, compilado por Escuelas Linux https://escuelaslinux.sourceforge.io/
 
 
-Source
+Source que ellos usaron para compilarlo:
 https://downloadarchive.documentfoundation.org/libreoffice/old/6.3.2.2/src/
